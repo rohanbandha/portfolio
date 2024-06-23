@@ -1,7 +1,7 @@
 # portfolio
 -> It is My Portfolio Website.
 
-->I Used HTML, CSS, JavaScript and Bootstrap.
+->I Used HTML and Tailwind CSS.
 
 ->It's basic though.
 ## I know it's not good and I will make it better with time. Trust Me ☺️
